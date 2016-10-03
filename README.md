@@ -1,8 +1,4 @@
-# Deep Learning reading lists
-# 2011-present
-
-### Eugenio Culurciello
-
+# Deep Learning reading lists, 2011-present
 
 
 # Basic Machine Learning:
