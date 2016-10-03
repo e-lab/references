@@ -1,6 +1,7 @@
-Eugenio Culurciello
-Deep Learnign reading lists
-2011-present
+# Deep Learning reading lists
+# 2011-present
+
+### Eugenio Culurciello
 
 
 
