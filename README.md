@@ -82,6 +82,9 @@ http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 LSTM code torch explained by Adam:
 https://apaszke.github.io/lstm-explained.html
 
+# Augmented RNNs:
+
+http://distill.pub/2016/augmented-rnns/
 
 
 ## how to design neural nets:
