@@ -163,3 +163,7 @@ http://cs231n.stanford.edu/reports/lediurfinal.pdf
 
 # Artistic style
 - https://arxiv.org/abs/1508.06576
+
+# Super-resolution
+
+- https://github.com/Tetrachrome/subpixel
