@@ -129,6 +129,8 @@ https://arxiv.org/abs/1605.05396
 predicting next frames from video, MIT Torralba
 http://arxiv.org/abs/1504.08023
 
+prednet Coxlab: https://github.com/coxlab/prednet
+
 # Reinforcement Learning
 
 http://karpathy.github.io/2016/05/31/rl/
