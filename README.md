@@ -1,23 +1,24 @@
 # Deep Learning reading lists, 2011-present
 
 
-# Basic Machine Learning:
+## Courses:
+
+-  Basic Machine Learning:
 https://www.coursera.org/course/ml
-
-
-# CNN, convnets from online courses:
 https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 http://cs231n.stanford.edu/syllabus.html
 
+Purdue e_lab course: https://docs.google.com/document/d/1_p4Y_9Y79uBiMB8ENvJ0Uy8JGqhMQILIFrLrAgBXw60/edit#heading=h.ml4r2vcdki0v
 
 
-# RNN - recurrent neural nets:
 
-## nice explanation
+## RNN - recurrent neural nets:
+
+### nice explanation
 https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-## RNN code is here:
+### RNN code is here:
 https://github.com/karpathy/char-rnn
 https://github.com/wojzaremba/lstm
 
@@ -82,12 +83,12 @@ http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 LSTM code torch explained by Adam:
 https://apaszke.github.io/lstm-explained.html
 
-# Augmented RNNs:
+## Augmented RNNs:
 
 http://distill.pub/2016/augmented-rnns/
 
 
-## how to design neural nets:
+## Design neural nets:
 
 VGG https://arxiv.org/pdf/1409.1556.pdf
 
@@ -105,7 +106,7 @@ NiN http://arxiv.org/abs/1312.4400
 
 systematic evaluation of modules:https://arxiv.org/abs/1606.02228
 
-# unsupervised
+## Unsupervised
 
 Soumith DCGAN
 http://arxiv.org/abs/1511.06434
@@ -133,9 +134,6 @@ http://arxiv.org/abs/1504.08023
 
 http://karpathy.github.io/2016/05/31/rl/
 
-# other lists:
-
-https://github.com/terryum/awesome-deep-learning-papers
 
 
 
@@ -170,3 +168,8 @@ http://cs231n.stanford.edu/reports/lediurfinal.pdf
 # Super-resolution
 
 - https://github.com/Tetrachrome/subpixel
+
+
+## other paper / reference lists:
+
+- https://github.com/terryum/awesome-deep-learning-papers
