@@ -3,12 +3,11 @@
 
 ## Courses:
 
--  Basic Machine Learning:
-https://www.coursera.org/course/ml
-https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-http://cs231n.stanford.edu/syllabus.html
-
-Purdue e_lab course: https://docs.google.com/document/d/1_p4Y_9Y79uBiMB8ENvJ0Uy8JGqhMQILIFrLrAgBXw60/edit#heading=h.ml4r2vcdki0v
+Basic Machine Learning:
+- https://www.coursera.org/course/ml
+- https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- http://cs231n.stanford.edu/syllabus.html
+- Purdue e_lab course: https://docs.google.com/document/d/1_p4Y_9Y79uBiMB8ENvJ0Uy8JGqhMQILIFrLrAgBXw60/edit#heading=h.ml4r2vcdki0v
 
 
 
