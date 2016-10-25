@@ -105,6 +105,8 @@ NiN http://arxiv.org/abs/1312.4400
 
 systematic evaluation of modules:https://arxiv.org/abs/1606.02228
 
+Xception: https://arxiv.org/abs/1610.02357
+
 ## Unsupervised
 
 Soumith DCGAN
