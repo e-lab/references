@@ -138,7 +138,11 @@ prednet Coxlab: https://github.com/coxlab/prednet
 http://karpathy.github.io/2016/05/31/rl/
 
 
+# 1-shot learning and adding new classes to pre-trained
 
+https://arxiv.org/pdf/1606.09282v2.pdf
+
+https://arxiv.org/pdf/1606.04080.pdf
 
 
 # transfer learning:
