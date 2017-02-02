@@ -140,6 +140,8 @@ http://karpathy.github.io/2016/05/31/rl/
 
 # 1-shot learning and adding new classes to pre-trained
 
+http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/
+
 https://arxiv.org/pdf/1606.09282v2.pdf
 
 https://arxiv.org/pdf/1606.04080.pdf
