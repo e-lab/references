@@ -171,6 +171,18 @@ transfer learning vs fully trained for vehicle model
 http://cs231n.stanford.edu/reports/lediurfinal.pdf
 
 
+# segmentation:
+
+https://arxiv.org/abs/1511.00561
+
+https://arxiv.org/pdf/1505.04597v1.pdf
+
+https://arxiv.org/pdf/1611.10080v1.pdf
+
+https://arxiv.org/abs/1611.09326
+
+
+
 # Artistic style
 - https://arxiv.org/abs/1508.06576
 
