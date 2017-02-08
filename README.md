@@ -133,6 +133,8 @@ http://arxiv.org/abs/1504.08023
 
 prednet Coxlab: https://github.com/coxlab/prednet
 
+Alf extra refs: https://docs.google.com/document/d/1_t7_Q4RxeX_blEQQXYv3MTDXxsCo2ZghfH7zp1y4Hkk
+
 # Reinforcement Learning
 
 http://karpathy.github.io/2016/05/31/rl/
