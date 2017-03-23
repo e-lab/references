@@ -140,6 +140,20 @@ Alf extra refs: https://docs.google.com/document/d/1_t7_Q4RxeX_blEQQXYv3MTDXxsCo
 http://karpathy.github.io/2016/05/31/rl/
 
 
+# 0-shot learning:
+
+A. Frome, G. S. Corrado, J. Shlens, S. Bengio, J. Dean, M. A.
+Ranzato, and T. Mikolov. Devise: A deep visual-semantic
+embedding model. In NIPS, 2013
+https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf
+
+R. Socher, M. Ganjoo, C. D. Manning, and A. Ng. Zero-shot
+learning through cross-modal transfer. In NIPS. 2013.
+https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf
+
+review:
+https://arxiv.org/pdf/1703.04394.pdf
+
 # 1-shot learning and adding new classes to pre-trained
 
 http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/
