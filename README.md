@@ -128,12 +128,19 @@ http://arxiv.org/abs/1502.04681
 learn to generate images from textual descriptions.
 https://arxiv.org/abs/1605.05396
 
+
+## sunsup / video prediciton
+
 predicting next frames from video, MIT Torralba
 http://arxiv.org/abs/1504.08023
 
 prednet Coxlab: https://github.com/coxlab/prednet
 
 Alf extra refs: https://docs.google.com/document/d/1_t7_Q4RxeX_blEQQXYv3MTDXxsCo2ZghfH7zp1y4Hkk
+
+better frame reconstruction by predicting transformations:
+https://arxiv.org/abs/1511.05440v6
+
 
 # Reinforcement Learning
 
