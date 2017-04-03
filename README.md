@@ -193,6 +193,9 @@ http://cs231n.stanford.edu/reports2016/313_Report.pdf
 transfer learning vs fully trained for vehicle model 
 http://cs231n.stanford.edu/reports/lediurfinal.pdf
 
+transfer learning from demonstrations for robot trajectory /LSTM + attentions
+https://arxiv.org/abs/1703.07326
+
 
 # segmentation:
 
