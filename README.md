@@ -141,6 +141,10 @@ Alf extra refs: https://docs.google.com/document/d/1_t7_Q4RxeX_blEQQXYv3MTDXxsCo
 better frame reconstruction by predicting transformations:
 https://arxiv.org/abs/1511.05440v6
 
+Scrambling of video frames used to train unsup:
+https://arxiv.org/pdf/1611.06646v2.pdf
+
+
 
 # Reinforcement Learning
 
@@ -160,6 +164,7 @@ https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf
 
 review:
 https://arxiv.org/pdf/1703.04394.pdf
+
 
 # 1-shot learning and adding new classes to pre-trained
 
