@@ -86,6 +86,10 @@ https://apaszke.github.io/lstm-explained.html
 
 http://distill.pub/2016/augmented-rnns/
 
+## Attention:
+
+https://blog.heuritech.com/2016/01/20/attention-mechanism/
+
 
 ## Design neural nets:
 
