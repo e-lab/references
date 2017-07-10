@@ -11,6 +11,24 @@ Basic Machine Learning:
 
 
 
+## back-propagation
+
+Theory / math:
+http://www.deeplearningbook.org/contents/mlp.html
+see chapter 6.5
+
+linear layers:
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+conv net layers:
+https://grzegorzgwardys.wordpress.com/2016/04/22/8/
+and
+https://www.slideshare.net/kuwajima/cnnbp
+and
+http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/
+[you need to save the maxpooling indices for back-prop]
+
+
 ## RNN - recurrent neural nets:
 
 ### nice explanation
