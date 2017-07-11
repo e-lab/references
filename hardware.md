@@ -14,3 +14,8 @@ Keywords: Weight Compression.
 Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks
 MIT's CNN chip..
 Keywords: Eyeriss, CNN, ASIC.
+
+
+Neurocube: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7551408
+Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory
+Duckhwan Kim∗, Jaeha Kung∗, Sek Chai†, Sudhakar Yalamanchili ∗, and Saibal Mukhopadhyay∗
