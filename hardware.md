@@ -15,6 +15,9 @@ Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional N
 MIT's CNN chip..
 Keywords: Eyeriss, CNN, ASIC.
 
+Caffeine: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7827589
+Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks
+Chen Zhang1,2,3∗, Zhenman Fang2 , Peipei Zhou2 , Peichen Pan3 , and Jason Cong1,2,3†
 
 Neurocube: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7551408
 Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory
