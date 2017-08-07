@@ -223,6 +223,7 @@ http://cs231n.stanford.edu/reports/lediurfinal.pdf
 transfer learning from demonstrations for robot trajectory /LSTM + attentions
 https://arxiv.org/abs/1703.07326
 
+learn to perform similar task to an example video
 https://arxiv.org/abs/1707.03374
 
 # segmentation:
