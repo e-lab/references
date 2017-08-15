@@ -22,3 +22,8 @@ Chen Zhang1,2,3∗, Zhenman Fang2 , Peipei Zhou2 , Peichen Pan3 , and Jason Cong
 Neurocube: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7551408
 Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory
 Duckhwan Kim∗, Jaeha Kung∗, Sek Chai†, Sudhakar Yalamanchili ∗, and Saibal Mukhopadhyay∗
+
+Sze review:
+Efficient Processing of Deep Neural Networks: A Tutorial and Survey
+Vivienne Sze, Yu-Hsin Chen, Tien-Ju Yang, Joel Emer
+https://arxiv.org/abs/1703.09039
